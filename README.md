@@ -15,7 +15,7 @@ Im currently studying on Insituto Nacional Tecnológico<br>Im looking to collabo
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=matiascolladoca&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
