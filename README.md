@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently studying on Insituto Nacional Tecnológico<br>Im looking to collaborate on a data science team<br>Im looking for help with LLM, Data Science, Machine Learning, Graph Databases<br>Im Currently learning about Data Science, Artificial Intelligence, IA Ethics, Educational Software, Computational Simulations<br>Ask me about Data Science, Science, Politics, Philosophy, IA, Arts and more
+Im currently studying on Instituto Nacional Tecnológico<br>Im looking to collaborate on a Data Science team<br>Im looking for help with LLM, Data Science, Machine Learning, Graph Databases<br>Im Currently learning about Data Science, Artificial Intelligence, IA Ethics, Educational Software, Computational Simulations<br>Ask me about Data Science, Science, Politics, Philosophy, IA, Arts and more
 
 
 ## 🌐 Socials:
